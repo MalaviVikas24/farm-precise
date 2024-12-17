@@ -1,0 +1,43 @@
+{
+  "states": [
+    {
+      "name": "Maharashtra",
+      "districts": [
+        {
+          "name": "Pune",
+          "crops": ["Wheat", "Rice", "Corn"]
+        },
+        {
+          "name": "Aurangabad",
+          "crops": ["Jowar", "Bajra", "Cotton"]
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "districts": [
+        {
+          "name": "Ludhiana",
+          "crops": ["Wheat", "Rice"]
+        },
+        {
+          "name": "Amritsar",
+          "crops": ["Barley", "Rice"]
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "districts": [
+        {
+          "name": "Hisar",
+          "crops": ["Wheat", "Cotton"]
+        },
+        {
+          "name": "Rohtak",
+          "crops": ["Rice", "Sugarcane"]
+        }
+      ]
+    }
+  ]
+}
